@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Doctor-Sobeck
-- 👀 I’m interested in html, css, javascript, python, c, c++, c# and brainfuck.
+- 👀 I’m interested in HTML, CSS, Javascript, Python, C, C++, C# and Brainfuck.
 - 🌱 I’m currently learning about web development.
 - 💞️ I’m not looking to collaborate right now. 
 - 📫 Please contact me! :)
